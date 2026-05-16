@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pakhi-o-mon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Pakhi O Mon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pakhi-o-mon/) |
+| **Get License** | [Get License For Pakhi O Mon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pakhi-o-mon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> git add lyric-raw.txt
+> git commit -m "feat: Add generated lyrics for Pakhi O Mon"
+> অচেনা মায়ায় জড়ালে আমায়, এ কোন বাঁধন
+> নিঃশ্বাসে আজ শুধু তোমারই, মাতাল স্পন্দন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
