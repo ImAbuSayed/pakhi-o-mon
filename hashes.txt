@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pakhi O Mon
+
+This log tracks the cryptographic history and versioning for the song **Pakhi O Mon** (pakhi-o-mon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T09:32:18.624216 | `v1` | `26641ec032dcf22dc2b1f23f62b1c64cd48f2f7ae6978965d45e198190b93b97` | `97a3268ac7bbc869fb780b154ad13102dccda169787be8329249a0959ab5ca24` | `2026-05-16_pakhi-o-mon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

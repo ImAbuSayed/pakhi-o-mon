@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pakhi-o-mon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Pakhi O Mon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pakhi-o-mon/) |
+| **Get License** | [Commercial Licensing for Pakhi O Mon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pakhi-o-mon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `26641ec032dcf22dc2b1f23f62b1c64cd48f2f7ae6978965d45e198190b93b97` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
